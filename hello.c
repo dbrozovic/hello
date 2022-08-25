@@ -2,7 +2,7 @@
  * Author: Daniel Brozović
  * Date: 2022/08/25
  *
- * A simple program to print my name
+ * A simple program to print my name and major.
  *
  */
 
